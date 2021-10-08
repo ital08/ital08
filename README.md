@@ -1,7 +1,8 @@
 ### Hi there 👋
 <p> I'm ital08 <p>
 <p> FrontEnd Developer ( Languagues: HTML CSS Javascript// Frameworks: Angular & React) <p>
-BackEnd Developer (Languagues: Competitive: Java // Familiar: Python, C# & C++ )
+<p> BackEnd Developer (Languagues: Competitive: Java // Familiar: Python, C# & C++ ) <p>
+<p> BackEnd Developer (Languagues: Competitive: Java // Familiar: Python, C# & C++ ) <p>
 <!--
 **ital08/ital08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
